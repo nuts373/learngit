@@ -12,5 +12,5 @@ def test():
 		print('Hello,%s!' % args[1])
 	else:
 		print('Too many arguments!')
-if _name_=='_main_':
+if __name__=='__main__':
 	test()
