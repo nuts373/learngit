@@ -19,3 +19,4 @@ def now2():
     print('2015-9-15')
 print(now1())
 print(now2())
+#test
